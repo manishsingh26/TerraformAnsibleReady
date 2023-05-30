@@ -1,0 +1,9 @@
+[all:vars]
+ansible_connection=ssh
+ansible_user=ansible
+ansible_user=ansible@123
+
+[hadoopservers]
+20.204.113.99
+20.204.113.124
+20.235.70.16
